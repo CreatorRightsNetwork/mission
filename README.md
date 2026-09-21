@@ -1,2 +1,3 @@
-# ShineTheLights
-When human-linked data creates value, who should benefit? 
+CreatorRightsNetwork/.github
+`
+profile/README.md
